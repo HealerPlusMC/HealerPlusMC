@@ -3,12 +3,12 @@ Hello I'm Healer, Iam Egyptian, Iam Minecraft Modder , I Need Some People to Pro
 
 ## ⌨️ The Technical Skills
 
-Websites Programer
--HTML
--CSS
--JAVASCRIPT
-MC Mods Programer
--Fabric
--Quilt
--Forge ( NO )
--NeoForge ( NO )
+Websites Programer :
+- HTML
+- CSS
+- JAVASCRIPT
+MC Mods Programer :
+- Fabric
+- Quilt
+- Forge ( NO ) 
+- NeoForge ( NO )
