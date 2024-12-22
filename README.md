@@ -8,7 +8,7 @@ Websites Programer
 -CSS
 -JAVASCRIPT
 MC Mods Programer
--FABRIC
--QUILT
--FORGE ( NO )
--NEWFORGE ( NO )
+-Fabric
+-Quilt
+-Forge ( NO )
+-NeoForge ( NO )
