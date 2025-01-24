@@ -10,6 +10,6 @@ I Specialize in Creating Functional and Visually appealing Websites, as well as 
 
 ## Minecraft Mods Programmer:  
 - 🌟 Fabric  
-- 🌟 Quilt (This is Fabric)  
-- 🌟 Forge (Sure)  
-- 🌟 NeoForge (No, of course)
+- 🌟 Quilt (Essentially Fabric)  
+- 🌟 Forge (Absolutely!)  
+- 🌟 NeoForge (No, of Course not)
