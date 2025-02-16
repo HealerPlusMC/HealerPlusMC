@@ -1,6 +1,6 @@
 # 🖐 About  
-Hello! I'm Healer, an Egyptian Website Developer and Minecraft Modder.  
-I Specialize in Creating Functional and Visually appealing Websites, as well as developing Custom Mods to Enhance the Minecraft Experience.
+Hello! I'm Healer, a Website Developer & Minecraft Modder (Java Edition) residing in Egypt.
+I specialize in creating functional and visually appealing websites, as well as developing custom mods to enhance the Minecraft experience.
 
 # ⌨️ The Technical Skills  
 ## Website Programmer:  
