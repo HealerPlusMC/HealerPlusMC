@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # يتم التحديث يوميًا
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch GitHub Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: "True"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated README with latest stats" || echo "No changes to commit"
+          git push
