@@ -1,45 +1,49 @@
 <h1 align="center">𝑯𝒆𝒂𝒍𝒆𝒓𝑷𝒍𝒖𝒔𝑴𝑪</h1>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HealerPlusMC&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HealerPlusMC&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-### 👤 **About Me**
-- 🔗 Joined GitHub **X years ago**  
-- 👀 Followed by **X users**  
-- 🏗 Contributed to **X repositories**  
+## 🔥 Activity
+
+- 🔥 X Commits
+- 🔃 X Pull Requests Opened
+- 🚀 X Issues Opened
+- 💬 X Issue Comments
 
 ---
 
-### 📊 **Activity**
-- 🔥 **X Commits**
-- 🔃 **X Pull Requests Opened**
-- 🚀 **X Issues Opened**
-- 💬 **X Issue Comments**
+## 🌍 Community Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HealerPlusMC&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HealerPlusMC&layout=compact&theme=dark)
-
----
-
-### 🌍 **Community Stats**
-- 🏢 Member of **X organizations**
-- 🤝 Following **X users**
-- ⭐ Starred **X repositories**
-- 👀 Watching **X repositories**
-- 💰 Sponsoring **X repositories**
+- 🏢 Member of X organizations
+- 👀 Followed by X users
+- 🏗 Contributed to X repositories
+- ⭐ Starred X repositories
+- 🔔 Watching X repositories
 
 ---
 
-### 🏆 **Featured Repositories**
-📌 [HealerPlusMC/BetterBiomes](https://github.com/HealerPlusMC/BetterBiomes)  
-📌 [HealerPlusMC/MultiLoader](https://github.com/HealerPlusMC/MultiLoader)  
+## 🎨 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HealerPlusMC&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
 ---
 
-### 📈 **Recent Coding Habits**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HealerPlusMC&theme=dark)](https://git.io/streak-stats)
+## ⭐ Featured Repositories
+
+- 📌 [HealerPlusMC/gleam-learning](https://github.com/HealerPlusMC/gleam-learning)  
+  _My learning of the Gleam programming language :3_
+
+- 📌 [HealerPlusMC/golang-learning](https://github.com/HealerPlusMC/golang-learning)  
+  _My personal journey of learning Go_
+
+- 📌 [HealerPlusMC/rust-exploration](https://github.com/HealerPlusMC/rust-exploration)  
+  _Writing and understanding Rust code while following tutorials on the internet_
 
 ---
 
-### 🏗 **Languages Used**
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HealerPlusMC&theme=github_dark)
+## 🕒 Recent Coding Habits
+
+🔴 🟠 🟡 🟢 🔵 🟣
