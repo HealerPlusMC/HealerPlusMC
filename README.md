@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🖐 About
+Hello! I'm Healer, a Website Developer & Minecraft Modder (Java Edition) residing in Egypt. I specialize in creating functional and visually appealing websites, as well as developing custom mods to enhance the Minecraft experience.
 
-<!--
-**HealerPlusMC/HealerPlusMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⌨️ The Technical Skills
+Website Programmer:
+- 🌟 Html
+- 🌟 Css
+- 🌟 JavaScript
+ Minecraft Mods Programmer:
+- 🌟 Fabric
+- 🌟 Quilt (Essentially Fabric)
+- 🌟 Forge (Absolutely!)
+- 🌟 NeoForge (No, of Course not)
